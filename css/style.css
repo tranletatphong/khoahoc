@@ -1,0 +1,174 @@
+
+.logo{
+	float: left;
+	width: 15%;
+}
+.container-1 {
+	
+	vertical-align: middle;
+	white-space: nowrap;
+	position: relative;
+	padding-top: -10px;
+	margin-left: 250px;
+	float: left;
+
+
+
+}
+.container-1 input#search{
+	width: 500px;
+	height: 50px;
+	background: #2b303b;
+	border: none;
+	font-size: 10pt;
+	float: left;
+
+	color: #ffffff;
+	padding-left: 45px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	
+
+}
+.button {
+	background-color: #505050;
+	width: 60px;
+	height: 45px;
+	border-radius: 8px;
+
+	padding: 2px 2px;
+
+	display: inline-block;
+
+	margin-left: 2px;
+	cursor: pointer;
+}
+
+
+
+
+
+.container-1 .icon {
+
+	width: 35px;
+	
+	float: left;
+	margin-left: 10px;
+	margin-top: 5px;
+	filter: invert(100%);
+}
+.icon2{
+	
+	width: 35px ;
+	float: left;
+	margin-left: 440px;
+
+
+
+}
+
+.manhinh{
+	width: 80%;
+	margin: auto;
+}	
+.xoahettatca{
+	clear: left;
+}
+.thanhngang{
+	
+	width: 100%;
+	height: 50px;
+	background-color: green;
+	border-radius: 8px;
+	margin-top: 40px;
+	float: left;
+}
+.trangchu {
+	
+	float: left;
+	
+	margin-left: 2px;
+	list-style-type: none;
+	padding-top: 5px;
+}
+
+
+
+.trangchu .text{
+	font-weight: bold;
+	float: left;
+	color: white;
+	margin-left: 5px;	
+
+}
+.trangchu .text:hover{
+	color: yellow;
+}
+
+
+
+.trangchu .house{
+	width: 30px;
+	float: left;
+	filter: invert(100%);
+}
+.to{
+	
+	float: left;
+	
+	margin-left: 30px;
+	list-style-type: none;
+	padding-top: 5px;
+}	
+.to .hinh{
+	width: 34px;
+	float: left;
+	filter: invert(100%);
+
+}
+.to .nho {
+	color: white;
+	margin-left: 5px;
+	float: left;
+	font-weight: bold;
+}
+.to .nho:hover{
+color: yellow;
+}
+
+.column{
+	width: 20%;
+	float: left;
+}
+.columnmiddle{
+	width: 60%;
+	float: left;
+	height: 500px;
+	background-color: black;
+}
+.columnright{
+	width: 20%;
+	height: 500px;
+	float: left;
+	background-color: red;
+}
+.menu1{
+	width: 20%;
+	height: 50px;
+	background-color: green;
+
+}
+.menu1 .robot{
+	height: 30px;
+	float: left;
+	margin-bottom: 2px;
+}
+.menu1 .text-menu-1{
+font-weight: bold;
+float: left;
+color: black;
+}
+.menu1 .text-menu-1:hover{
+	color: green;
+}
